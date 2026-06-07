@@ -1,4 +1,4 @@
-# Paper2Galgame_fixed
+# Paper2Galgame — 让论文阅读变成 Galgame 体验
 
 ## 1. 项目概述
 
@@ -151,4 +151,8 @@ npm run dev
 | DeepSeek 返回格式异常 | `deepseek-chat` 模型对 JSON 模式的遵循度可能波动，检查控制台返回的原始 JSON |
 | 页面白屏 | F12 查看控制台 JS 报错；确认 `npm install` 完整执行 |
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> c62bf4eb3437469ec1d76f7658528390d46672c5
